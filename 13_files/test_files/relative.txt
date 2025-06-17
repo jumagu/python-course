@@ -1,0 +1,8 @@
+Hola
+Este
+Archivo
+Es
+Para
+Explicar
+Rutas
+Relativas
